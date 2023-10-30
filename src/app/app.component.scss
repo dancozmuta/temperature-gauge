@@ -1,0 +1,11 @@
+:host {
+  /* import google font family Inter */
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}

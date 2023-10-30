@@ -1,0 +1,16 @@
+:host {
+  width: 120px;
+  height: 120px;
+  position: relative;
+
+  .indicator-min,
+  .indicator-max {
+    position: absolute;
+    width: 3px;
+    height: 17px;
+    top: 0px;
+    left: 48.7%;
+    background: #333;
+    transform-origin: 50% 60px;
+  }
+}
